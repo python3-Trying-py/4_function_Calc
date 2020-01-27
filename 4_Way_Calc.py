@@ -1,10 +1,10 @@
 while True:
     try:
-        Var1=float(input("frist integer\n"))
+        Var1=float(input("frist value\n"))
     except:
         Var1=0
     try:
-        Var2=float(input("second integer\n"))
+        Var2=float(input("second value\n"))
     except:
         Var2=0
     OpA="add"
